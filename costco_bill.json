@@ -1,0 +1,39 @@
+{
+    "store": "COSTCO WHOLESALE",
+    "location": "DALLAS #1266, 8055 CHURCHILL WAY, DALLAS, TX 75251",
+    "subtotal_tax": "$81.83",
+    "approved_purchase_amount": "$81.83",
+    "visa": "08/10/2023, 17:46, 12669396",
+    "chip_read": "None",
+    "member_id": "111974448781",
+    "items": [
+        {
+            "name": "+ VITA COCO 1",
+            "price": "$20.99"
+        },
+        {
+            "name": "+ HADLEY ORGANIC",
+            "price": "$8.99"
+        },
+        {
+            "name": "+ ORGANIC COCONUT",
+            "price": "$7.89"
+        },
+        {
+            "name": "+ SEEDLESS WATERMELON",
+            "price": "$5.99"
+        },
+        {
+            "name": "+ VITA COCO 1",
+            "price": "$20.99"
+        },
+        {
+            "name": "+ ORGANIC GREEN TEA",
+            "price": "$7.99"
+        },
+        {
+            "name": "+ KANSAS ORGANIC WHOLE",
+            "price": "$8.99"
+        }
+    ]
+}
